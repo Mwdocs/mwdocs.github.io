@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0ee5f291","path":"/MWben.html","title":"现代战舰五蚌","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":0.14,"words":43},"filePathRelative":"MWben.md","copyright":{"author":" MWdocs & 原作者 "}}');export{e as data};
